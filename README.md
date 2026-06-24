@@ -1,1 +1,1 @@
-This is an authentication service written in GoLang
+This is an authentication service written in Go.
